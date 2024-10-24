@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Study_Notion/static/css/main.ca0b80de.css",
+    "main.js": "/Study_Notion/static/js/main.e436762a.js",
+    "static/media/signup.png": "/Study_Notion/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/Study_Notion/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/Study_Notion/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/Study_Notion/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/Study_Notion/index.html",
+    "main.ca0b80de.css.map": "/Study_Notion/static/css/main.ca0b80de.css.map",
+    "main.e436762a.js.map": "/Study_Notion/static/js/main.e436762a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0b80de.css",
+    "static/js/main.e436762a.js"
+  ]
+}
